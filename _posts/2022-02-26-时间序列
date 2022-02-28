@@ -4,7 +4,7 @@ title:      时间序列的R实现            # 标题
 subtitle:   《Forecasting: Principles and Practice，3rd》中文版整理 #副标题
 date:       2022-02-26              # 时间
 author:     HZ                      # 作者
-header-img: img/  #这篇文章标题背景图片
+header-img: img/time series.jpg  #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - 统计学习
