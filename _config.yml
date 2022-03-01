@@ -96,18 +96,18 @@ service-worker: true
 
 
 # Friends
-friends: [
+reference web: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "stack overflow",
+        href: "https://stackoverflow.com/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "R数据科学",
+        href: "https://r4ds.had.co.nz/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Machine Learning Mastery",
+        href: "https://machinelearningmastery.com/m"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "R blogger",
+        href: "https://www.r-bloggers.com/"
     }
 ]
