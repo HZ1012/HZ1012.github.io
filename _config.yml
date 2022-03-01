@@ -96,7 +96,7 @@ service-worker: true
 
 
 # Friends
-reference web: [
+friends : [
     {
         title: "s o",
         href: "https://stackoverflow.com/"
