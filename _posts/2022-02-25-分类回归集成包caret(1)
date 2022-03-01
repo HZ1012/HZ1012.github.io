@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      分类回归集成包caret（1）            # 标题 
+title:      R包caret（1）            # 标题 
 subtitle:   caret包中文使用指南 #副标题
 date:       2022-02-24              # 时间
 author:     HZ                      # 作者
