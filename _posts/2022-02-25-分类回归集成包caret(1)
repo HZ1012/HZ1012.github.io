@@ -1,10 +1,10 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
 title:      分类回归集成包caret（1）            # 标题 
-# subtitle:   《Forecasting: Principles and Practice》中文整理 #副标题
+subtitle:   《Forecasting: Principles and Practice》中文整理 #副标题
 date:       2022-02-24              # 时间
 author:     HZ                      # 作者
-header-img: img/time series.jpg    #这篇文章标题背景图片
+header-img: img/bg-1st.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - R应用
