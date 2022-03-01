@@ -98,7 +98,7 @@ service-worker: true
 # Friends
 friends : [
     {
-        title: "s o",
+        title: "stack overflow",
         href: "https://stackoverflow.com/"
     },{
         title: "R数据科学",
