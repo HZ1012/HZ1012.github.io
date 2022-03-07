@@ -111,3 +111,10 @@ friends : [
         href: "https://www.r-bloggers.com/"
     }
 ]
+# 记录浏览量
+<div class="cinc-totalPanel" 
+ user-id="hz" >
+</div>
+<script type="text/javascript" async="" 
+src="http://kelresource.oss-cn-shenzhen.aliyuncs.com/totalPanel.min.js" 
+charset="UTF-8"></script>
