@@ -111,3 +111,7 @@ friends : [
         href: "https://www.r-bloggers.com/"
     }
 ]
+# 访问量计数
+<span id="busuanzi\_container\_site\_pv">
+ 本站总访问量<span id="busuanzi\_value\_site\_pv"></span>次
+</span>
